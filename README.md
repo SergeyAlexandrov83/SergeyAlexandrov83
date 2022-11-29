@@ -1,3 +1,5 @@
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?SergeyAlexandrov83=vn7n24fzkq&theme=github_dark)
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/>&nbsp;
