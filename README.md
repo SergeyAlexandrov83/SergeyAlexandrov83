@@ -2,7 +2,7 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SergeyAlexandrov83&theme=2077" />
 </div>
 <div id="stat" align="center">
-        <a href="https://github.com/SergeyAlexandrov83/PETProjests"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>&nbsp;</a>
+        <a href="https://github.com/SergeyAlexandrov83/Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>&nbsp;</a>
         <a href="https://github.com/SergeyAlexandrov83/Practice"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;</a>
         <a href="https://github.com/SergeyAlexandrov83/Swift_HW"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/>&nbsp;</a>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
